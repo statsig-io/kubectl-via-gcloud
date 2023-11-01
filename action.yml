@@ -1,0 +1,8 @@
+name: "kubectl via gcloud"
+description: "Issues kubectl commands with a kubeconfig exported via gcloud."
+branding:
+  icon: "anchor"
+  color: "blue"
+runs:
+  using: "docker"
+  image: "Dockerfile"
