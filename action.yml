@@ -5,4 +5,4 @@ branding:
   color: "blue"
 runs:
   using: "docker"
-  image: "Dockerfile"
+  image: 'docker://docker.io/statsig/kubectl-via-gcloud:latest'
