@@ -37,4 +37,4 @@ jobs:
           # release in the Dockerfile.
           tags: |
             statsig/kubectl-via-gcloud:latest
-            statsig/kubectl-via-gcloud:v1.6.4-statsig.2
+            statsig/kubectl-via-gcloud:v1.6.4-statsig.3
